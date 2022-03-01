@@ -33,10 +33,10 @@ console.log(c);     //q,r
 
 console.log('---Change Func Then Props---');
 changeFuncThenProps(c);
-console.log(c);     //s,t?
-console.log(c());   //lol?
+console.log(c);     
+console.log(c());   
 
 console.log('---Change Props Then Func---');
 changePropsThenFunc(c);
-console.log(c);     //u,v?
-console.log(c());   //fgh?
+console.log(c);     
+console.log(c());   

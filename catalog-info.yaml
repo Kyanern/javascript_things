@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: javascript_things
+  description: |
+    A collection of javascript snippets.
+  links:
+    - title: GitHub
+      url: https://github.com/Kyanern/javascript_things
+spec:
+  type: library
+  owner: kyanern
+  lifecycle: development

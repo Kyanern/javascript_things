@@ -7,7 +7,9 @@ metadata:
   links:
     - title: GitHub
       url: https://github.com/Kyanern/javascript_things
+  annotations:
+    github.com/project-slug: kyanern/javascript_things
 spec:
   type: library
-  owner: kyanern
+  owner: user:kyanern
   lifecycle: development
